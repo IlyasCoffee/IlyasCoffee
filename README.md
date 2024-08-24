@@ -1,4 +1,4 @@
 # Salam, I'm Ilyas
 
-### I'm a young web developer looking to improve my coding skills, and to build a lot of amazing things along the way, and if you wanna know more I would recommend to read my blog.
+### I design and build websites, while hosting a YouTube channel and a blog site sharing my thoughts, ideas, opinions to the world wide web, for more information visit [ilyas.coffee](https://ilyas.coffee).
 ### — Thank you, have a good day.
